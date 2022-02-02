@@ -1,0 +1,24 @@
+main{
+  min-height: 15vh;
+}
+
+footer{
+  min-height: 15vh;
+}
+
+.p-3{
+  border: 3px pink dotted;
+}
+
+.giant-bg{
+  min-height: 100vh;
+  background-image: url('https://markohnsman.github.io/img/header.jpg');
+  background-size: cover;
+}
+
+.p-big{
+  padding-top: 6em;
+  padding-bottom: 6em;
+  padding-left: 3em;
+  padding-right: 3em;
+}
